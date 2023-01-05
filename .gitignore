@@ -30,3 +30,7 @@
 *.exe
 *.out
 *.app
+
+# note2self files
+note2self.txt
+*.bak
